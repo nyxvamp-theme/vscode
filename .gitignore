@@ -1,3 +1,6 @@
 # Nix files
 result
 /.direnv/
+
+# Node files
+/node_modules/
