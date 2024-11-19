@@ -1,0 +1,32 @@
+{
+  "name": "nyxvamp-theme",
+  "displayName": "NyxVamp",
+  "description": "theme inspired by transfem emo aesthetics",
+  "publisher": "zoedsoupe",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NyxVamp - Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyxvamp-obsidian-color-theme.json"
+      },
+      {
+        "label": "NyxVamp - Veil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyxvamp-veil-color-theme.json"
+      },
+      {
+        "label": "NyxVamp - Radiance",
+        "uiTheme": "vs",
+        "path": "./themes/nyxvamp-radiance-color-theme.json"
+      }
+    ]
+  }
+}
