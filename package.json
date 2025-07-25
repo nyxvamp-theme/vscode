@@ -4,7 +4,7 @@
   "description": "theme inspired by transfem emo aesthetics",
   "publisher": "zoedsoupe",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -40,8 +40,6 @@
     "url": "https://github.com/nyxvamp-theme/vscode.git"
   },
   "dependencies": {
-    "@vscode/vsce": "^3.2.1",
-    "generator-code": "^1.11.4",
-    "yo": "^5.0.0"
+    "@vscode/vsce": "^3.2.1"
   }
 }
