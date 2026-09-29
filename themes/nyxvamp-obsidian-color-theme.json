@@ -67,7 +67,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#5E5A76",
+        "foreground": "#8682A0",
         "fontStyle": "italic"
       }
     },
@@ -86,7 +86,7 @@
     {
       "scope": ["constant", "constant.builtin"],
       "settings": {
-        "foreground": "#F28FAD",
+        "foreground": "#D7BA7D",
         "fontStyle": "bold"
       }
     },
@@ -99,7 +99,7 @@
     {
       "scope": ["boolean"],
       "settings": {
-        "foreground": "#F28FAD"
+        "foreground": "#D7BA7D"
       }
     },
     {
@@ -163,7 +163,7 @@
     {
       "scope": ["symbol"],
       "settings": {
-        "foreground": "#F28FAD",
+        "foreground": "#D7BA7D",
         "fontStyle": "italic"
       }
     },
@@ -204,7 +204,7 @@
     {
       "scope": ["markup.quote"],
       "settings": {
-        "foreground": "#5E5A76",
+        "foreground": "#8682A0",
         "fontStyle": "italic"
       }
     },
@@ -267,23 +267,23 @@
     "keyword.control": "#F5C2E7",
     "type": "#A0A0D0",
     "type.builtin": "#A0A0D0",
-    "constant": "#F28FAD",
-    "constant.builtin": "#F28FAD",
+    "constant": "#D7BA7D",
+    "constant.builtin": "#D7BA7D",
     "string": "#8FBF8F",
     "number": "#D8A080",
-    "boolean": "#F28FAD",
-    "comment": "#5E5A76",
+    "boolean": "#D7BA7D",
+    "comment": "#8682A0",
     "operator": "#C0C0CE",
     "punctuation": "#C0C0CE",
     "namespace": "#A090C0",
     "attribute": "#F5C2E7",
-    "symbol": "#F28FAD",
+    "symbol": "#D7BA7D",
     "markup.heading": "#F5C2E7",
     "markup.bold": "#F5C2E7",
     "markup.italic": "#F5C2E7",
     "markup.link.url": "#7FAFD7",
     "markup.link.text": "#F5C2E7",
-    "markup.quote": "#5E5A76"
+    "markup.quote": "#8682A0"
   },
   "semanticHighlighting": true
 }

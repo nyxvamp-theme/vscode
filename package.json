@@ -24,6 +24,11 @@
         "path": "./themes/nyxvamp-veil-color-theme.json"
       },
       {
+        "label": "NyxVamp - Jhujuba",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyxvamp-jhujuba-color-theme.json"
+      },
+      {
         "label": "NyxVamp - Radiance",
         "uiTheme": "vs",
         "path": "./themes/nyxvamp-radiance-color-theme.json"
